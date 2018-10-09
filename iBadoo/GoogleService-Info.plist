@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>878717336801-thjnvtoglir6n6m8edbck9a8fl1udc0o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.878717336801-thjnvtoglir6n6m8edbck9a8fl1udc0o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBsvCuo20edrD43SXKkX9A8Xeid7_jLnLA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>878717336801</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>SS.iBadoo</string>
+	<key>PROJECT_ID</key>
+	<string>radar-978dd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>radar-978dd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:878717336801:ios:8468d02594e43c00</string>
+	<key>DATABASE_URL</key>
+	<string>https://radar-978dd.firebaseio.com</string>
+</dict>
+</plist>
